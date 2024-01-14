@@ -1,4 +1,3 @@
-// Components
 const Header = (props) => {
   console.log('Header component', props)
 
@@ -42,7 +41,6 @@ const Total = (props) => {
 }
 
 
-// Main Component
 const App = () => {
   const course = {
     name: 'Half Stack application development',
